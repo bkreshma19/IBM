@@ -8,4 +8,9 @@ public static int sum(intx,int y)
 {
 return x+y;
 }
+public void div(int x,int y)
+{
+  return x*x;
+
+}
 }
